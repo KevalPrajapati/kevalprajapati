@@ -31,7 +31,7 @@ I am......... (hmm..😊,Linkedin link ☝)
 
 | Python | Java | Flutter | Opencv | Github |
 | :---: | :---: | :---: | :---: | :---: |
-| VS vode | Windows | Internet🕸 | Music🎧 | Brain🧠|
+| VS code | Windows | Internet🕸 | Music🎧 | Brain🧠|
 
 
 
