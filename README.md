@@ -34,4 +34,8 @@ I am......... (hmm..😊,Linkedin link ☝)
 | VS code | Windows | Internet🕸 | Music🎧 | Brain🧠|
 
 
+|Games 🎮|
+| :---: |
+
+
 
