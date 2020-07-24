@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 I am......... (hmm..😊,Linkedin link ☝)
 
-⚡ Fun fact: Not every prtogrammer loves coffee. Some love Chai too!!
+⚡ Fun fact: Not every programmer loves coffee. Some love Chai too!!
 
 
 ### I use-
